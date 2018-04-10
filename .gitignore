@@ -1,0 +1,12 @@
+/bin
+/build
+/.gradle
+/gradle
+/gradlew
+/gradlew.bat
+
+/*.iml
+/*.iws
+/*.ipr
+/.idea
+/out
